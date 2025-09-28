@@ -1,1 +1,1 @@
-# gothic_horror_Romance
+.gitignore
